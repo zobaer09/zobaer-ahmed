@@ -34,7 +34,7 @@ tags:
 title: An example conference paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 
 url_poster: '#'
 url_project: ""
 url_slides: ""
