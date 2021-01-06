@@ -18,18 +18,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
+- description: 
+  icon: satellite
   icon_pack: fas
-  name: Photography
+  name: ArcGIS Pro
+- description: 
+  icon: table
+  icon_pack: fas
+  name: SPSS
+- description: 
+  icon: poll
+  icon_pack: fas
+  name: Survey
+- description: 
+  icon: google
+  icon_pack: fab
+  name: Google Suite
+
+
+# - description: 
+#   icon: mendeley
+#   icon_pack: fab
+#   name: Referencing
+
+  
+# - description: 100% 
+#   icon: camera-retro
+#   icon_pack: fas
+#   name: Photography
 
 # Uncomment to use emoji icons.
 #- icon = ":smile:"

@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Licenses&shy; & Certifications'
 subtitle:
 
 # Date format
@@ -23,28 +23,44 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: http://www.graham.umich.edu
   date_end: ""
-  date_start: "2018-10-01"
+  date_start: "2020-11-01"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Graham Sustainability Institute 
+  organization_url: http://www.graham.umich.edu
+  title: 'Measuring Climate Adaptation Success and Progress: Introduction to the Resilience Metrics'
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.iversity.org/verify/anLmeL
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+  date_start: "2014-06-14"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  organization: iversity GmbH
+  organization_url: https://www.iversity.org
+  title: The DO School Start-Up Lab
+  url: https://www.iversity.org/verify/anLmeL
+- certificate_url: https://www.dropbox.com/s/j4m57i83bdk26w5/IMG%20%282%29.jpg
+  date_end: ""
+  date_start: "2014-04-01"
+  description: ""
+  organization: 'International Centre for Climate Change and Development (ICCCAD)'
+  organization_url: http://www.icccad.net/
+  title: 'International Training Workshop on Monitoring and Evaluation (M&E) for Community Based Adaptation (CBA)'
+  url: ""
+- certificate_url: https://www.dropbox.com/s/ir7hzbt4ez763q3/IMG_0001%20%282%29.jpg
+  date_end: ""
+  date_start: "2013-10-01"
+  description: ""
+  organization: 'Department of Statistics, Biostatistics & Informatics, University of Dhaka, Bangladesh'
+  organization_url: https://www.du.ac.bd/academic/department_item/STA
+  title: 'Training Course on SPSS for Professionals, Researchers and Students'
+  url: ""
+- certificate_url: 
+  date_end: ""
+  date_start: "2011-10-01"
+  description: ""
+  organization: 'Bangabandhu Sheikh Mujibur Rahman Agricultural University'
+  organization_url: https://www.bsmrau.edu.bd/
+  title: 'Experience Certificate on Communication and Technology Transfer'
   url: ""
 ---
