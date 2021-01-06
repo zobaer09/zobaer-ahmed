@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Zobaer Ahmed</title>
+    <link>https://zobaerahmed.us/blog/r-blog/</link>
+      <atom:link href="https://zobaerahmed.us/blog/r-blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Zobaer Ahmed © 2021</copyright><lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zobaerahmed.us/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Overview</title>
+      <link>https://zobaerahmed.us/blog/r-blog/</link>
+    </image>
+    
+    <item>
+      <title>Page 1</title>
+      <link>https://zobaerahmed.us/blog/r-blog/page1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://zobaerahmed.us/blog/r-blog/page1/</guid>
+      <description>&lt;p&gt;This is a tutorial page.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
