@@ -1,7 +1,7 @@
 ---
 abstract: The aim of the study is to explore the regional variation of changing patterns of rainfall in Bangladesh using wavelet transform. The study is completed using rainfall variation of the five regions of Bangladesh as Dhaka, Cox’s Bazar, Rajshahi, Bogra and Sylhet. The duration of the study period was 69 years for Dhaka, 64 years for Cox’s Bazar, 40 years for Rajshahi, 54 years for Bogra and 55 years for Sylhet. The results of the wavelet analysis reveals that, in Rajshahi the amount of rainfall are decreasing in a significant rate among the other study regions. It also explores the annual periodicity of rainfall for all the study regions along with a special 6-month periodicity in the Cox’s Bazar. In addition, this analysis also explores a dominating 3 - 4 year cycle of rainfall in all the study regions. Besides the climate change in Cox’s Bazar and Sylhet are pretty much alarming.
 authors:
-- admin
+- Zobaer Ahmed
 date: "2018-02-01T00:00:00Z"
 doi: ""
 featured: true
@@ -21,8 +21,8 @@ projects:
 publishDate: "2018-01-02T00:00:00Z"
 slides: example
 summary:  The aim of the study is to explore the regional variation of changing patterns of rainfall in Bangladesh using wavelet transform.
-# tags:
-# - Source Themes
+tags:
+- Publications
 title: Pattern Recognition of Rainfall Using Wavelet Transform in Bangladesh
 # url_code: '#'
 # url_dataset: '#'

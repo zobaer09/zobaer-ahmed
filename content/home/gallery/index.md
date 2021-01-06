@@ -9,5 +9,15 @@ title = "Gallery"
 subtitle = ""
 +++
 
+<style>
+#image-container img {
+    border-radius: 10px;
+    max-width: 40%;
+    height: auto;
+}
+</style>
+
+<div id="image-container">
 {{< gallery >}}
+</div>
 

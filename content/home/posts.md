@@ -19,7 +19,7 @@ content:
   count: 5
   # Filter on criteria
   filters:
-    author: ""
+    author: "Zobaer Ahmed"
     category: ""
     tag: ""
     exclude_featured: false

@@ -1,7 +1,7 @@
 ---
 abstract: Disaster have an enormous on development. With every disaster, there is a significant impact on various sector of development like agriculture, construction, health, education and infrastructure. This results in a serious social and economic setback to the development of the developing countries, and poses a threat for achieving the Millennium Development Goals (MDGs). On the other hand, the process of development, and the kind of development choices made in many countries, sometimes creates disaster risks. A close analysis of the development process with its six aspects namely policy, strategy, programming, project cycle management and institutional capacity; clearly argues for the need of systematic and more conscious ways of integrating disaster risk reduction (DRR) into construction sector in Bangladesh.
 authors:
-- admin
+- Zobaer Ahmed
 date: "2017-05-01T00:00:00Z"
 doi: ""
 featured: true

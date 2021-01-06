@@ -7,7 +7,7 @@ image:
 math: true
 title: How far will Carbon Dioxide (CO2) Levels Rise in the Future?
 authors:
-  - admin
+  - Zobaer Ahmed
 ---
 
 {{< figure src="https://media-exp1.licdn.com/dms/image/C5112AQFFoVSr-8BbhQ/article-inline_image-shrink_1000_1488/0/1520242339602?e=1615420800&v=beta&t=Iwaajt5BwD2Kun2sv1XQK_ZUey5kTHqIYdu4bXfKdvg" title="Figure 1: A sub-cycle within the global carbon cycle; Source: Moffitts Farm, 2020" >}}

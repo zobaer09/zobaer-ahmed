@@ -25,10 +25,10 @@ content:
   order: desc
   # Filter on criteria
   filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    author: ''
+    tag: "Publications"
+    category: ""
+    publication_type: ""
+    author: "Zobaer Ahmed"
     exclude_featured: true
 design:
   # Choose a view for the listings:
@@ -36,7 +36,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 
 {{% callout note %}}
