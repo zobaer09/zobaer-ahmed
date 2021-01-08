@@ -37,6 +37,9 @@ enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
 
+# disqus config
+disqusShortname = "DisqusShortname"
+
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
   event = "/talk/:slug/"

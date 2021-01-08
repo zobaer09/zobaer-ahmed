@@ -77,3 +77,4 @@ responsible for the present buildup of CO2 and is believed to cause the observed
 temperatures. Now the question is, how far will CO2 levels rise in the future? The answer depends both on
 how much CO2 humans continue to release and on the future amount of carbon uptake and storage by the
 earth's natural sinks and reservoirs. In short, we can say that it depends on the carbon cycle.
+

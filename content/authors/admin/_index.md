@@ -28,7 +28,7 @@ interests:
 - Monitoring & Evaluation
 - Project Management.
 organizations:
-- name: Arkansas State University (A-State)
+- name: Arkansas State University
   url: https://www.astate.edu/
 role: Doctoral Researcher
 social:
@@ -56,4 +56,4 @@ title: Zobaer Ahmed
 
 Multidisciplinary, freelancer, international research and development specialist with 7 years of experience in academic research, project management, and implementation across 10 counties which include Southeast Asia (Bangladesh, India, Nepal, Malaysia), Central Europe (Belgium, France, Netherlands, Germany, Italy) and North America (USA) with 15+ renowned international organizations. Personal strengths include multitasking, working under tight schedules, collaborating with researchers, and maintaining a positive work ethic and attitude. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
