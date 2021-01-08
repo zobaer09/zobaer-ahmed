@@ -216,7 +216,7 @@ plugins_js  = []
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "disqus_uL59NUhexr"  # Paste the shortname from your Disqus dashboard.
+    shortname = "https-zobaerahmed-us"  # Paste the shortname from your Disqus dashboard.
     show_count = true  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
