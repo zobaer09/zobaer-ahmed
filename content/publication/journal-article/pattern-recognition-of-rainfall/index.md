@@ -19,7 +19,7 @@ projects:
 #publication_types:
 - "1"
 publishDate: "2018-01-02T00:00:00Z"
-slides: example
+slides: pattern-recognition
 summary:  The aim of the study is to explore the regional variation of changing patterns of rainfall in Bangladesh using wavelet transform.
 tags:
 - Publications

@@ -54,6 +54,8 @@ superuser: true
 title: Zobaer Ahmed
 ---
 
+<div style="text-align: inherit;">
 Multidisciplinary, freelancer, international research and development specialist with 7 years of experience in academic research, project management, and implementation across 10 counties which include Southeast Asia (Bangladesh, India, Nepal, Malaysia), Central Europe (Belgium, France, Netherlands, Germany, Italy) and North America (USA) with 15+ renowned international organizations. Personal strengths include multitasking, working under tight schedules, collaborating with researchers, and maintaining a positive work ethic and attitude. 
+</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

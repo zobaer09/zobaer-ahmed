@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Minimal"
+
+# Optional Google font URL
+google_fonts = "family=Montserrat:wght@400;700&family=Noto+Sans"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Noto Sans"
+nav_font = "Noto Sans"
+mono_font = "Noto Sans"
