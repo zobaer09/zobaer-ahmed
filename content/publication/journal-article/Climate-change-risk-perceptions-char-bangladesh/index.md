@@ -23,7 +23,7 @@ slides: example
 summary: The present study evaluates char dwellers’ risk perceptions and agricultural adaptations to climate change.
 # tags:
 # - Source Themes
-title: Impact of Climate Change on Food Security in Bangladesh
+title: Climate change risk perceptions and agricultural adaptation strategies in vulnerable riverine char islands of Bangladesh
 # url_code: '#'
 # url_dataset: '#'
 # url_pdf: https://www.scirp.org/journal/paperinformation.aspx?paperid=82469
