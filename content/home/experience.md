@@ -70,7 +70,7 @@ experience:
     description: |2-
         Responsibilities include:
        
-        * Managing data collection, analysis and writing papers for publications
-        * Data wrangling and analysis using R-Studio and ArcGIS Pro
-        * Lead research on climate change adaptation, vulnerability and food security
+        * Managed and supervised directly more than 3000+ users
+        * Controlled payments distribution of more than $500,000 million
+        * Developed 5+ in-depth training manuals and visuals for users
 ---
