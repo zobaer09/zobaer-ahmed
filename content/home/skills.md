@@ -31,8 +31,8 @@ feature:
   icon_pack: fas
   name: ArcGIS Pro
 - description: 
-  icon: googleearth-engine
-  icon_pack: icon
+  icon: icomoon
+  icon_pack: custom
   name: Google Earth Engine
 - description: 
   icon: poll
