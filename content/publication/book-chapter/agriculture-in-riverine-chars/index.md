@@ -23,7 +23,7 @@ slides: example
 summary:  This study explores char dwellers’ vulnerabilities and responses to climate change and other natural disasters and the existing community-based agricultural adaptations.
 # tags:
 # - Source Themes
-title: Agriculture in Riverine Chars- Vulnerabilities to Climate Change and Community Based Adaptation
+title: Agriculture in Riverine Chars Vulnerabilities to Climate Change and Community Based Adaptation
 # url_code: '#'
 # url_dataset: '#'
 # url_pdf: https://www.scirp.org/journal/paperinformation.aspx?paperid=82469
