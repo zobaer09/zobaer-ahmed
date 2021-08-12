@@ -13,4 +13,6 @@ title: R Tutorials
 toc: true
 type: tutorial
 weight: 1
+
+active: false
 ---

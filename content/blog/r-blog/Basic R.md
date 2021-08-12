@@ -10,5 +10,7 @@ title: Basic R
 toc: true
 type: tutorial
 weight: 1
+
+active: false
 ---
 Coming soon....

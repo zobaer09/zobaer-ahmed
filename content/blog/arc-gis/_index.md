@@ -13,7 +13,7 @@ title: ArcGIS Turorial
 toc: true
 type: tutorial
 weight: 1
-active: true
+active: false
 ---
 
 Coming soon....
