@@ -40,6 +40,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 # disqus config
 disqusShortname = "DisqusShortname"
 
+plugins_css = ["custom"]
+
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
   event = "/talk/:slug/"

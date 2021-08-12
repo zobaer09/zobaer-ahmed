@@ -23,17 +23,17 @@ feature:
   icon_pack: fab
   name: R
 - description: 
-  icon: chart-line
+  icon: python
   icon_pack: fas
-  name: Statistics
+  name: Python
 - description: 
   icon: satellite
   icon_pack: fas
   name: ArcGIS Pro
 - description: 
-  icon: table
-  icon_pack: fas
-  name: SPSS
+  icon: googleearth-engine
+  icon_pack: icon
+  name: Google Earth Engine
 - description: 
   icon: poll
   icon_pack: fas

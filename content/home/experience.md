@@ -22,12 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Doctoral Graduate Researcher
+  - title: Remote Sensing Analyst
+    company: University of Arkansas
+    company_url: 'https://www.uark.edu/'
+    location: Arkansas, USA
+    date_start: '2021-05-16'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+       
+        * Performing satellite image processing and model building
+        * Crop identification using Google Earth Engine and Python
+        * Econometric analysis for conservation practice adoption in Arkansas delta
+        
+  - title: Graduate Researcher
     company: Arkansas State University
     company_url: 'https://www.astate.edu/'
     location: Arkansas, USA
     date_start: '2020-01-05'
-    date_end: ''
+    date_end: '2020-05-15'
     description: |2-
         Responsibilities include:
        
