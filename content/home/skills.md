@@ -19,30 +19,6 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 
-  icon: satellite
-  icon_pack: fas
-  name: ArcGIS Pro
-- description: 
-  icon: table
-  icon_pack: fas
-  name: SPSS
-- description: 
-  icon: poll
-  icon_pack: fas
-  name: Survey
-- description: 
-  icon: google
-  icon_pack: fab
-  name: Google Suite
-- description: 
   icon: python
   icon_pack: fab
   name: Python
@@ -50,6 +26,37 @@ feature:
   icon: google-earth-engine
   icon_pack: custom
   name: Google Earth Engine
+- description: 
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 
+  icon: satellite
+  icon_pack: fas
+  name: Remote Sensing
+- description: 
+  icon: map-marked-alt
+  icon_pack: fas
+  name: Geoinformatics
+- description: 
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: 
+  icon: google
+  icon_pack: fab
+  name: Google Suite
+- description: 
+  icon: poll
+  icon_pack: fas
+  name: Survey
+- description: 
+  icon: table
+  icon_pack: fas
+  name: SPSS
+
+
+
 
 
 # - description: 
