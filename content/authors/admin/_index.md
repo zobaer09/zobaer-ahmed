@@ -53,7 +53,6 @@ title: Zobaer Ahmed
 <div style="text-align: inherit;">
 Multidisciplinary, freelancer, international research and development specialist with 7 years of experience in academic research, project management, and implementation across 10 counties which include Southeast Asia (Bangladesh, India, Nepal, Malaysia), Central Europe (Belgium, France, Netherlands, Germany, Italy) and North America (USA) and worked with 15+ renowned international organizations. Personal strengths include multitasking, working under tight schedules, collaborating with researchers, and maintaining a positive work ethic and attitude.
 
-
 Key areas of interest and expertise includes Remote Sensing and Geospatial Modeling, Environmental and Agricultural Data Science, Conservation and Adaptation, Rural Development, Climate Change and Impact Assessment, Vulnerabilities and Risk Analysis, Food Security, Human-Environment System Interactions, Environmental and Sustainable Development, Market Research and Strategy, Proposal Writing, Article Review & Editing, Monitoring and Evaluation, and Project Management.
 
 Professional skills in mapping and statistical softwares (Google Earth Engine, R, Python, ArcGIS Pro, ArcMap, SPSS, and Excel Risk Solver). 
