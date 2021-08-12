@@ -44,7 +44,7 @@ experience:
     description: |2-
         Responsibilities include:
        
-        * Managing data collection, analysis and writing papers for publications
+        * Managed data collection, analysis and wrote papers for publications
         * Data wrangling and analysis using R-Studio and ArcGIS Pro
         * Lead research on climate change adaptation, vulnerability and food security
         
@@ -57,7 +57,7 @@ experience:
     description: |2-
         Responsibilities include:
        
-        * Facilitated as a guest lecturer in several workshops and seminars on research methods
+        * Facilitated as a guest lecturer in several workshops on research methods
         * Directed climate change adaptation innovation works with water harvesting 
         * Collaborated in proposal writing and joint publication
         
