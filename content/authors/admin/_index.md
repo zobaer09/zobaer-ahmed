@@ -4,7 +4,7 @@ education:
   courses:
   - course: PhD in Environmental Dynamics
     institution: University of Arkansas
-    year: 2021-Ongoing
+    year: 2020-2023
   - course: Joint International MSc in Rural Development
     institution: Ghent University (Belgium), Pisa University (Italy), Humboldt University of Berlin (Germany)
     year: 2017-2019
