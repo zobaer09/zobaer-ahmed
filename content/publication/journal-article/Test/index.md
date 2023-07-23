@@ -1,5 +1,6 @@
 ---
-abstract: 
+abstract: test
+authors:
 - Zobaer Ahmed
 date: "2018-02-01T00:00:00Z"
 doi: ""
@@ -19,10 +20,10 @@ projects:
 - "1"
 publishDate: "2018-01-02T00:00:00Z"
 slides: pattern-recognition
-summary:  The aim of the study is to explore the regional variation of changing patterns of rainfall in Bangladesh using wavelet transform.
+summary: test
 tags:
 - Publications
-title:Test
+title: test
 # url_code: '#'
 # url_dataset: '#'
 # url_pdf: https://www.scirp.org/journal/paperinformation.aspx?paperid=82469
