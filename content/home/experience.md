@@ -22,12 +22,30 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Remote Sensing Analyst
+- title: Director Research and Evaluation (CRS III)
+    company: NYC Mayor's Office to ENDGBV
+    company_url: ''
+    location: NY, USA
+    date_start: '2023-07-24'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+       
+        * Develops strategic plans for research aligned with the organization's goals
+        * Designs and implements research projects to provide insights
+        * Oversees data collection and analysis for informed decision-making
+        * Evaluates program effectiveness for future planning
+        * Presents comprehensive reports to stakeholders and executives
+        * Leads and supports a team of researchers
+        * Ensures ethical compliance and data privacy
+        * Collaborates with other departments and partners to align research efforts
+
+  - title: Senior Research Assistant (Remote Sensing Analyst)
     company: University of Arkansas
     company_url: 'https://www.uark.edu/'
     location: Arkansas, USA
     date_start: '2021-05-16'
-    date_end: ''
+    date_end: '2023-07-21'
     description: |2-
         Responsibilities include:
        
